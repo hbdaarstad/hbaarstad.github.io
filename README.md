@@ -1,3 +1,3 @@
-# Davis template
+# Website Templet
 
-A simple Quarto-based template for UC Davis political science PhD students
+The code for my website
